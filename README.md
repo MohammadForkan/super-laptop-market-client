@@ -22,4 +22,4 @@ Welcome to Kitchen Office. This is a reataurant website. This repository contain
 - Heroku
 
 
-You can see client side code in [Super Laptop Market Client](https://github.com/MohammadForkan/super-laptop-market-server)
+You can see client side code in [Super Laptop Market Server](https://github.com/MohammadForkan/super-laptop-market-server)
