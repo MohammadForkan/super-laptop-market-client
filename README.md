@@ -1,5 +1,5 @@
 ## [Super Laptop Market](https://doctor-portal-5b73b.web.app/)
-Welcome to Kitchen Office. This is a reataurant website. This repository contains server site code.
+Welcome to Super Laptop Market. This is a E-commerce website. This repository contains client site code.
 <br/>
 <br/>
 <img src="https://i.ibb.co/6BN4Zq2/Screenshot-2021-11-28-012019.png" />
